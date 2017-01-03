@@ -2,15 +2,26 @@
 
 <!--
 ## Day 1: 1 Jan 2017
-**Today’s progress**:
+**Today’s progress:**
 **Thoughts:**
 **Learned today:**
 **Links to work:**
 -->
 
+## Day 2: 2 Jan 2017
+
+**Today’s progress:** Built and implemented a working PHP sendmail page for the contact form in my “Build a Personal Portfolio Webpage” project (see [Resources](resources.md) for link). Tested. Works. Note that my contact form is pretty much copied from [here](https://bootswatch.com/sandstone/#forms). Also added large responsive background image to About section. Added a panel to the footer.
+
+**Thoughts:** Lots of time spent on getting that background image to behave nicely. Reworked some JavaScript I figured out previously for another project. Not done with the About section yet. Portfolio section still empty.
+
+**Learned today:** `background-size: contain;` and `background-size: cover;` (CSS) for a responsive background image. I thought `contain` would work, but it turned out that `cover` was what I needed.
+
+**Links to work:** “Build a Personal Portfolio Webpage” at Codepen.io: [A Free Code Camp project](http://codepen.io/macloo/full/rjBKLo/) with Bootstrap.
+
+
 ## Day 1: 1 Jan 2017
 
-**Today’s progress**: Forked the [100 Days Of Code repo](https://github.com/Kallaway/100-days-of-code); updated [Log](log.md) and [Rules](rules.md). Also changed the README to link to the [original repo](https://github.com/Kallaway/100-days-of-code). Started the “Build a Personal Portfolio Webpage” project. Made/edited the navbar and DIVs for each section. Coded social icons, using Font Awesome. Added contact form.
+**Today’s progress:** Forked the [100 Days Of Code repo](https://github.com/Kallaway/100-days-of-code); updated [Log](log.md) and [Rules](rules.md). Also changed the README to link to the [original repo](https://github.com/Kallaway/100-days-of-code). Started the “Build a Personal Portfolio Webpage” project. Made/edited the navbar and DIVs for each section. Coded social icons, using Font Awesome. Added contact form.
 
 **Thoughts:** Beginning “100 Days Of Code” would be quite a challenge if you'd never used GitHub before. (Of course, it's a great chance to learn to use GitHub!) At [Free Code Camp](https://www.freecodecamp.com/macloo), I’ve completed the Front End Development Certification lessons through “JSON APIs and Ajax” with one exception: “Build a Personal Portfolio Webpage.” Next up: “Intermediate Front End Development Projects."
 
