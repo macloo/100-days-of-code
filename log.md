@@ -8,6 +8,17 @@
 **Links to work:**
 -->
 
+## Day 3: 3 Jan 2017
+
+**Today’s progress:** Finished the responsive large image code (both CSS and JavaScript) for the top section of the portfolio. I might tweak the text behavior a bit more later on, but for now it's working well.
+
+**Thoughts:** It's so time-consuming to adjust a big background image to be responsive. There's probably a library or plugin for this that I don't know about.
+
+**Learned today:** How to combine `background-size: cover;` and `background-position: center;` and write JavaScript to change the way the background behaves on a phone screen. `$(window).height()` is handy.
+
+**Links to work:** “Build a Personal Portfolio Webpage” at Codepen.io: [A Free Code Camp project](http://codepen.io/macloo/full/rjBKLo/) with Bootstrap.
+
+
 ## Day 2: 2 Jan 2017
 
 **Today’s progress:** Built and implemented a working PHP sendmail page for the contact form in my “Build a Personal Portfolio Webpage” project (see [Resources](resources.md) for link). Tested. Works. Note that my contact form is pretty much copied from [here](https://bootswatch.com/sandstone/#forms). Also added large responsive background image to About section. Added a panel to the footer.
