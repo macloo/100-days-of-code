@@ -18,6 +18,9 @@
 
 **Links to work:** “Build a Personal Portfolio Webpage” at Codepen.io: [A Free Code Camp project](http://codepen.io/macloo/full/rjBKLo/) with Bootstrap.
 
+![Laptop screenshot - portfolio](images/portfolio_image_lg.png)
+![Mobile screenshot - portfolio](images/portfolio_image_sm.png)
+
 
 ## Day 2: 2 Jan 2017
 
