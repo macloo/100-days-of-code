@@ -1,0 +1,16 @@
+/*  bootstrap 3.3.7 is enabled  */
+
+body {
+  padding-top: 30px;
+  background: #f2dede;
+}
+h1 {
+  color: #b26262;
+  font-size: 4em;
+}
+#footer {
+  padding: 2em 0;
+  background: #c4a2a2;
+  color: #fff;
+  letter-spacing: 0.1em;
+}
