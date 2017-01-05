@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 4: 4 Jan 2017
+
+**Today’s progress:** Finished the FCC “Build a Personal Portfolio Webpage” project! I decided to use Bootstrap's column styles to create a flexible grid for thumbnails that link to my work. I used [this file](https://github.com/macloo/learning-bootstrap/blob/master/grid_example_enhanced.html) that I made last year when learning Bootstrap for the first time and modified the grid code to work with 400-pixel-wide site thumbnails with captions.
+
+**Thoughts:** The trick to this grid is putting all the images in one row, even though they take up more than 12 columns, and using the weird Bootstrap style `class="clearfix visible-xs-block"` to make it fully responsive. (This is likely to be different in Bootstrap 4.)
+
+**Learned today:** I can store images free at [Postimage](https://postimg.org/). Put my thumbnails there.
+
+**Links to work:** “Build a Personal Portfolio Webpage” at Codepen.io: [A Free Code Camp project](http://codepen.io/macloo/full/rjBKLo/) with Bootstrap.
+
 ## Day 3: 3 Jan 2017
 
 **Today’s progress:** Finished the responsive large image code (both CSS and JavaScript) for the top section of the portfolio. I might tweak the text behavior a bit more later on, but for now it's working well.
