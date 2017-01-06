@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 5: 5 Jan 2017
+
+**Today’s progress:** Started the [FCC “Random Quote Machine” project](https://www.freecodecamp.com/challenges/build-a-random-quote-machine). It's been so long since I did the exercises in the “JSON APIs and Ajax” section of FCC, I had to go back and look at what I did. They show you just what you need for this project. Worked on this project for about an hour and a half.
+
+**Thoughts:** I was feeling tired of Bootstrap, so for this project I went with vanilla HTML5 and CSS. I would like to create my own JSON file of selected quotes, but it seems like that might be a poor use of time, as it is not coding per se. Maybe later.
+
+**Learned today:** Can use [Twitter code](https://publish.twitter.com/#) for the tweet button. Found an API for an existing quotations site and will use that when I get to the Ajax part (tomorrow, I hope).
+
+**Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/xgbyjB/), a Free Code Camp project.
+
 ## Day 4: 4 Jan 2017
 
 **Today’s progress:** Finished the FCC “Build a Personal Portfolio Webpage” project! I decided to use Bootstrap's column styles to create a flexible grid for thumbnails that link to my work. I used [this file](https://github.com/macloo/learning-bootstrap/blob/master/grid_example_enhanced.html) that I made last year when learning Bootstrap for the first time and modified the grid code to work with 400-pixel-wide site thumbnails with captions.
