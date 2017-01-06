@@ -14,7 +14,7 @@
 
 **Thoughts:** I was feeling tired of Bootstrap, so for this project I went with vanilla HTML5 and CSS. I would like to create my own JSON file of selected quotes, but it seems like that might be a poor use of time, as it is not coding per se. Maybe later.
 
-**Learned today:** Can use [Twitter code](https://publish.twitter.com/#) for the tweet button. Found an API for an existing quotations site and will use that when I get to the Ajax part (tomorrow, I hope).
+**Learned today:** Can use [Twitter code](https://publish.twitter.com/#) for the tweet button. Found an API for an existing quotations site and will use that when I get to the Ajax part (tomorrow, I hope). How to [use Google Fonts on Codepen](https://codepen.io/team/sparkbox/full/OMdwoJ).
 
 **Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/xgbyjB/), a Free Code Camp project.
 
