@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+  background: #cfc;
+  font-family: Lato;
+  font-size: 100%;
+}
+
+#container {
+  box-sizing: border-box;
+  background: #fff;
+  width: 50%;
+  padding: 4em 6em;
+  margin: auto;
+}
+
+#quote {
+  font-size: 2em;
+  line-height: 2em;
+  text-align: center;
+}
+
+#attrib {
+  font-size: 1.2em;
+  line-height: 1.2em;
+  text-align: right;
+  padding-bottom: 2em;
+}
+
+#tweet-button {
+  float: right;
+}
+
+#credit-line {
+  font-size: 1em;
+  line-height: 1.4em;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 3em;
+}
+
+@media (max-width: 900px) {
+  #container {
+    width: 80%;
+  }
+}
+
+@media (max-width: 600px) {
+  #container {
+    width: 100%;
+    padding: 2em 3em;
+  }
+}

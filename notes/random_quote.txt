@@ -1,0 +1,21 @@
+Notes: Random Quote Machine
+
+Requirements: 1. The user can click a button to show a new random quote. 2. The user can press a button to tweet out a quote.
+
+
+https://publish.twitter.com/#
+
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-text="foobar" data-hashtags="quotable" data-lang="en" data-show-count="true" target="_blank">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+http://www.sapphyr.net/buddhist/buddhist-dhammapada.htm
+
+
+https://theysaidso.com/api/
+
+Attribution:
+<span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
+
+
