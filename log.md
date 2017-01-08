@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 7: 8 Jan 2017
+
+**Today’s progress:** Finished the FCC “Random Quote Machine” project. I'm really glad to leave that one behind!
+
+**Thoughts:** The JSON and the API were not much of a problem, but I spent way too much time trying to find a decent free quotation site with an open API. I did find one (maybe), but I'm still waiting for them to send me an authentication code. In the meantime, I fudged it using a site where I can get about six quotes out of their API without paying.
+
+**Learned today:** jQuery: "The `data-` attributes are pulled in the first time the data property is accessed and then are no longer accessed or mutated (all data values are then stored internally in jQuery)." [source](https://api.jquery.com/data/) In other words, *you can't rewrite the value of a `data-` attribute* after the page has loaded — for example, after you have loaded a new quotation. This made it impossible to use the Twitter sharing button I already know about. Tons of time spent Googling, etc. Finally realized I had to use the [Tweet Web Intent](https://dev.twitter.com/web/tweet-button/web-intent) URL in my JavaScript and **not** use Twitter's own button. So I built my own button, which at least matches my **New Quote** button. Used a cool button-builder (see [Resources](resources.md)). I did steal `encodeURIComponent()` from the FCC example for this project. [Here's what it does.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)
+
+**Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/bgVdmw/), a Free Code Camp project.
+
 ## Day 6: 7 Jan 2017
 
 **Today’s progress:** I just about have the JSON working for the quotes API. I spent an hour and a half, and that's all I want to spend today, but I'm close!
@@ -16,7 +26,7 @@
 
 **Learned today:** You can use `forEach` only on arrays, not on objects.
 
-**Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/xgbyjB/), a Free Code Camp project.
+**Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/bgVdmw/), a Free Code Camp project.
 
 ## Missed day: 6 Jan 2017
 
@@ -28,7 +38,7 @@
 
 **Learned today:** Can use [Twitter code](https://publish.twitter.com/#) for the tweet button. Found an API for an existing quotations site and will use that when I get to the Ajax part (tomorrow, I hope). How to [use Google Fonts on Codepen](https://codepen.io/team/sparkbox/full/OMdwoJ).
 
-**Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/xgbyjB/), a Free Code Camp project.
+**Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/bgVdmw/), a Free Code Camp project.
 
 ## Day 4: 4 Jan 2017
 
