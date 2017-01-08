@@ -1,7 +1,7 @@
 # Recommended Resources
 
 ## I used these
-* [CSS Button Generator](http://www.bestcssbuttongenerator.com/) 
+* [CSS Button Generator](http://www.bestcssbuttongenerator.com/)
 * [How to Create an HTML/PHP Contact Form](http://webdesy.com/how-to-create-html-php-contact-form-part-2/)
 * [CSSmatic](http://www.cssmatic.com/box-shadow) for shadows (also does gradients and border radius)
 * [Font Awesome](http://fontawesome.io/) for icons
@@ -12,7 +12,8 @@
 
 ## Projects and ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+2. [#JavaScript30](https://javascript30.com/) — this looks great! 
+3. [The Odin Project](http://www.theodinproject.com/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
