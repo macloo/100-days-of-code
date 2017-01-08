@@ -8,6 +8,18 @@
 **Links to work:**
 -->
 
+## Day 6: 7 Jan 2017
+
+**Today’s progress:** I just about have the JSON working for the quotes API. I spent an hour and a half, and that's all I want to spend today, but I'm close!
+
+**Thoughts:** The FCC lesson on “Convert JSON Data to HTML” did not solve for the JSON I'm getting from the quotes API I am using. I had to go back and look at some JSON-file-handling notes I made in the past, plus some Stack Overflow searching! I don't need a for-loop because I know the keys in the quotes object.
+
+**Learned today:** You can use `forEach` only on arrays, not on objects.
+
+**Links to work:** [Random Quote Generator](http://codepen.io/macloo/full/xgbyjB/), a Free Code Camp project.
+
+## Missed day: 6 Jan 2017
+
 ## Day 5: 5 Jan 2017
 
 **Today’s progress:** Started the [FCC “Random Quote Machine” project](https://www.freecodecamp.com/challenges/build-a-random-quote-machine). It's been so long since I did the exercises in the “JSON APIs and Ajax” section of FCC, I had to go back and look at what I did. They show you just what you need for this project. Worked on this project for about an hour and a half.

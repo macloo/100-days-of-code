@@ -8,6 +8,13 @@ https://publish.twitter.com/#
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-text="foobar" data-hashtags="quotable" data-lang="en" data-show-count="true" target="_blank">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+      <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-text="foobar" data-hashtags="quotable" data-lang="en" data-show-count="true" target="_blank">Tweet</a>
+      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      
+
+https://dev.twitter.com/web/tweet-button
+
+<a href="https://twitter.com/intent/tweet?text=foobar" target="_blank">Share on Twitter</a> 
 
 
 http://www.sapphyr.net/buddhist/buddhist-dhammapada.htm
@@ -18,4 +25,103 @@ https://theysaidso.com/api/
 Attribution:
 <span style="z-index:50;font-size:0.9em;"><img src="https://theysaidso.com/branding/theysaidso.png" height="20" width="20" alt="theysaidso.com"/><a href="https://theysaidso.com" title="Powered by quotes from theysaidso.com" style="color: #9fcc25; margin-left: 4px; vertical-align: middle;">theysaidso.com</a></span>
 
+-------------------------------------------------------------
+
+This works.
+
+  $('#get-new').on('click', function() {
+    $.getJSON("http://quotes.rest/qod.json", function(json) {
+        $("#quote").html(JSON.stringify(json));
+      });
+  });
+
+
+{"success":{"total":1},"contents":{"quotes":[
+{
+"quote":"We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light",
+"length":"121",
+"author":"Mary Dunbar",
+"tags":["discover","inspire","self"],
+"category":"inspire",
+"date":"2017-01-08",
+"title":"Inspiring Quote of the day",
+"background":"https://theysaidso.com/img/bgs/man_on_the_mountain.jpg",
+"id":"NMrdeKJZAouC1i06aoMm3weF"
+}
+]
+}}
+
+-------------------------------------------------------------
+
+$("#getMessage").on("click", function() {
+	$.getJSON("/json/cats.json", function(json) {
+
+		var html = "";
+        
+		json.forEach(function(val) {
+			var keys = Object.keys(val);
+			html += "<div class = 'cat'>";
+			keys.forEach(function(key) {
+				html += "<strong>" + key + "</strong>: " + val[key] + "<br>";
+			}); // end keys
+			html += "</div><br>";
+		}); // end forEach
+
+        $(".message").html(html);
+
+	}); // end getJSON
+});
+
+-------------------------------------------------------------
+Error: 
+json.forEach is not a function
+
+json is an object, not an array. 
+You can use forEach only on arrays. 
+-------------------------------------------------------------
+
+$('#get-new').on('click', function() {
+	$.getJSON('http://quotes.rest/qod.json', function(json) {
+
+		var html = '';
+        
+		json.forEach(function(val) {
+			var keys = Object.keys(val);
+			// html += "<div class = 'cat'>";
+			keys.forEach(function(key) {
+				// html += "<strong>" + key + "</strong>: " + val[key] + "<br>";
+				console.log(val[key] + "\n");
+			}); // end keys
+			// html += "</div><br>";
+		}); // end forEach
+
+        // $(".message").html(html);
+
+	}); // end getJSON
+});
+
+
+$('#get-new').on('click', function() {
+	$.getJSON('http://quotes.rest/qod.json', function(json) {
+        
+		json.forEach(function(val) {
+			var keys = Object.keys(val);
+
+			keys.forEach(function(key) {
+
+				console.log(val[key] + "\n");
+			}); // end keys
+		}); // end forEach
+	}); // end getJSON
+});
+
+-------------------------------------------------------------
+These 2 are equivalent:
+console.log(json['contents']['quotes'] + "\n");
+console.log(json.contents.quotes + "\n");
+-------------------------------------------------------------
+
+
+This doesn't work - quite:
+console.log("Test: " + json.contents.quotes.author + "\n");
 
