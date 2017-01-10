@@ -1,0 +1,44 @@
+Notes for local weather page
+
+https://codepen.io/macloo/full/oBjxJV/
+
+https://developers.google.com/maps/documentation/geocoding/start
+
+
+
+Example of API call:
+
+api.openweathermap.org/data/2.5/forecast/city?id=524901&APPID=1111111111 
+
+
+Call API by city ID instead of city name, city coordinates or zip code. In this case you get precise respond exactly for your city.
+
+http://openweathermap.org/appid
+
+Get current weather info:
+https://openweathermap.org/current
+
+Google lat-long lookup:
+https://developers.google.com/maps/documentation/geocoding/start?csw=1
+
+
+
+https://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&key=YOUR_API_KEY
+
+https://maps.googleapis.com/maps/api/geocode/json?latlng=29.653558999999994,-82.32247199999999&key= ...
+
+
+
+
+$.getJSON('https://maps.googleapis.com/maps/api/geocode/json?key=A ...',{
+        sensor: false,
+        latlng: "40.714224,-73.961452"
+    },
+    function( data, textStatus ) {
+        console.log(data.results[0].formatted_address);
+    }
+ );
+ 
+ 
+
+

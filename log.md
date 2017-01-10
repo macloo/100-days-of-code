@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 8: 9 Jan 2017
+
+**Today’s progress:** Started the FCC [Local Weather project](https://www.freecodecamp.com/challenges/show-the-local-weather). No problem with `geolocation.getCurrentPosition()`, but then I tried to use the Google Maps API to do a reverse lookup to get the place name from the latlong, and I can't get it to work. Very frustrating. I got API keys for both [OpenWeatherMap](http://openweathermap.org/appid) and [Google Maps](https://developers.google.com/maps/documentation/geocoding/get-api-key).
+
+**Thoughts:** Maybe I can't use the Google Maps API without a map?
+
+**Learned today:** Are APIs always a pain in the neck? Also, the way my code is now, the latlong from `geolocation.getCurrentPosition()` loads *after* the attempt to get JSON from Google Maps, so I have to figure that out later.
+
+**Links to work:** [Weather Where You Are](https://codepen.io/macloo/full/oBjxJV/)
+
 ## Day 7: 8 Jan 2017
 
 **Today’s progress:** Finished the FCC “Random Quote Machine” project. I'm really glad to leave that one behind!
