@@ -8,6 +8,14 @@
 **Links to work:**
 -->
 
+## Day 9: 10 Jan 2017
+
+**Today’s progress:** Read a lot about callbacks and promises. Still not really clear on how to use them correctly. Tested the [OpenWeatherMap API](http://openweathermap.org/current) for getting the current temperature with fixed latlong. That works. Found out that OpenWeatherMap delivers temperature in Kelvin by default. Looked up formulas to convert temps.
+
+**Thoughts:** I understand how callbacks and promises *work* but not how to successfully *use* them. Promises are the new thing and people on Stack Overflow say use them instead of callbacks. Also, it seems SO people like pure JS and not jQuery for promises.
+
+**Links to work:** Same as yesterday. [Weather Where You Are](https://codepen.io/macloo/full/oBjxJV/) 
+
 ## Day 8: 9 Jan 2017
 
 **Today’s progress:** Started the FCC [Local Weather project](https://www.freecodecamp.com/challenges/show-the-local-weather). No problem with `geolocation.getCurrentPosition()`, but then I tried to use the Google Maps API to do a reverse lookup to get the place name from the latlong, and I can't get it to work. Very frustrating. I got API keys for both [OpenWeatherMap](http://openweathermap.org/appid) and [Google Maps](https://developers.google.com/maps/documentation/geocoding/get-api-key).
