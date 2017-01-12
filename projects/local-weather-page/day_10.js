@@ -1,3 +1,6 @@
+// requires https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY
+
+
 $(document).ready(function() {
 
     // each works alone
