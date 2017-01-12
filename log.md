@@ -8,13 +8,23 @@
 **Links to work:**
 -->
 
+## Day 10: 11 Jan 2017
+
+**Today’s progress:** Sucks. Still trying to figure out promises. Switched to callbacks for a while. In fact, I spent about an hour on callbacks. Now returning to promises. Total time wasted today: 1.5 hours.
+
+**Learned today:** This seems like a good resource: [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises).
+
+> “The above and JavaScript promises share a common, standardised behaviour called Promises/A+. If you're a jQuery user, they have something similar called Deferreds. However, Deferreds aren't Promise/A+ compliant, which makes them subtly different and less useful, so beware. jQuery also has a Promise type, but this is just a subset of Deferred and has the same issues.” (From the link above.)
+
+**Links to work:** Same as yesterday. [Weather Where You Are](https://codepen.io/macloo/full/oBjxJV/)
+
 ## Day 9: 10 Jan 2017
 
 **Today’s progress:** Read a lot about callbacks and promises. Still not really clear on how to use them correctly. Tested the [OpenWeatherMap API](http://openweathermap.org/current) for getting the current temperature with fixed latlong. That works. Found out that OpenWeatherMap delivers temperature in Kelvin by default. Looked up formulas to convert temps.
 
 **Thoughts:** I understand how callbacks and promises *work* but not how to successfully *use* them. Promises are the new thing and people on Stack Overflow say use them instead of callbacks. Also, it seems SO people like pure JS and not jQuery for promises.
 
-**Links to work:** Same as yesterday. [Weather Where You Are](https://codepen.io/macloo/full/oBjxJV/) 
+**Links to work:** Same as yesterday. [Weather Where You Are](https://codepen.io/macloo/full/oBjxJV/)
 
 ## Day 8: 9 Jan 2017
 
