@@ -33,6 +33,7 @@ $(document).ready(function() {
         var lati = result[0];
         var long = result[1];
         getCityFromLatlng(lati, long);
+        getWeatherData(lati, long);
     }, function(err) {
         // or alert the error, from reject
         alert(err);
