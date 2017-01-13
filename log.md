@@ -8,6 +8,12 @@
 **Links to work:**
 -->
 
+## Day 11: 12 Jan 2017
+
+**Today’s progress:** More disappointment. More frustration with promises not working. I thought I finally had it, but I can't get it to run. I even [got a fiddle working](https://jsfiddle.net/macloo/zdem3923/). Time spent: 1.5 hours.
+
+**Links to work:** [At Codepen](https://codepen.io/macloo/pen/oBjxJV)
+
 ## Day 10: 11 Jan 2017
 
 **Today’s progress:** Sucks. Still trying to figure out promises. Switched to callbacks for a while. In fact, I spent about an hour on callbacks. Now returning to promises. Total time wasted today: 1.5 hours.
