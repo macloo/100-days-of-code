@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+
+body {
+  background: #39B3DB;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 100%;
+  margin: 0;
+}
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
+div {
+  font-size: 2em;
+  text-align: center;
+  padding-bottom: 1em;
+}
