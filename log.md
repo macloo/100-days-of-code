@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 12: 13 Jan 2017
+
+**Today’s progress:** FINALLY. I got a JavaScript promise to work, so that I got my location via the browser with `geolocation.getCurrentPosition` and then passed the latitude and longitude to `google.maps.Geocoder` to get a complete location name. This is the code that works for just that: [weather_bak.js](projects/local-weather-page/scripts/weather_bak.js).
+
+**Thoughts:** No documentation for promises makes sense to me. I just had to try a bunch of examples in jsFiddle and fuss with them until they worked for me. It took hours. And then ...
+
+**Learned today:** It turns out this FCC project is just the **WORST PROJECT EVER,** because after all that misery, it turns out I can't use `google.maps.Geocoder` and [OpenWeatherMap](http://openweathermap.org/current) on the same page, because Google requires `https` and OWM will only work with `http`.
+
+**Links to work:**  [weather_bak.js](projects/local-weather-page/scripts/weather_bak.js) and [this fiddle](https://jsfiddle.net/macloo/c3pqh63u/) ... version with weather API (which will not work): [weather.js](projects/local-weather-page/scripts/weather.js)
+
 ## Day 11: 12 Jan 2017
 
 **Today’s progress:** More disappointment. More frustration with promises not working. I thought I finally had it, but I can't get it to run. I even [got a fiddle working](https://jsfiddle.net/macloo/zdem3923/). Time spent: 1.5 hours.
