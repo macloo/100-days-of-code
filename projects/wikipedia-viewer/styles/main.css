@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+
+* {
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+body {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 100%;
+	color: #000;
+	background: #fff;
+    margin: 0;
+	}
+#container {
+	margin: 20px auto;
+	width: 740px;
+	border: 1px solid #999;
+	padding: 20px 40px;
+	background: #f1f7dc;
+	}
+h1, h2 {
+	font-size: 3em;
+	font-weight: normal;
+	margin: 0;
+	}
+h2 { font-size: 2.4em; }
+p {
+	font-size: 2em;
+}
+
+/* search form elements */
+#search-form {
+	display: block;
+	margin-bottom: 15px;
+	}
+.fieldcontainer {
+	display: block;
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+	}
+.searchfield {
+	display: block;
+	width: 100%;
+	padding: 11px 7px;
+	padding-right: 43px;
+	background: #fff;
+	color: #333;
+	font-family: monospace;
+	font-size: 140%;
+	border: 1px solid #ccc;
+	}
+/* pretty cool trick: inserting the magnifying-glass image as background
+   on the Submit button, then positioning the Submit button inside the
+   form field. I wonder if this works in IE? */
+#searchbutton {
+	position: absolute;
+	top: 7px;
+	right: 10px; /* 360px; */
+	/* container is 740px wide (360px is less than half)
+	   .fieldcontainer is 90% wide with top margin of 0
+	   .searchfield is half that width? (45%) */
+	width: 32px;
+	height: 32px;
+	border: 0;
+	cursor: pointer;
+	/* two lines below set opacity for button, not for image */
+	filter: alpha(opacity=65);
+	opacity: 0.65;
+	background: transparent url(../images/search.png) top left no-repeat;
+	}
+#searchbutton:hover {
+	/* change button's opacity */
+	filter: alpha(opacity=90);
+	opacity: 0.9;
+	}
