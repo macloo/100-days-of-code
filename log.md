@@ -8,6 +8,20 @@
 **Links to work:**
 -->
 
+## Day 13: 14 Jan 2017
+
+**Today’s progress:** I'm quitting the FCC local weather project, and here's why:
+
+* `geolocation.getCurrentPosition` requires `https` in Chrome and Safari.
+* The [OpenWeatherMap](http://openweathermap.org/current) API works with `http` and not with `https`. Because of cross-origin restrictions, I can't open the page with `https` and then request an insecure (`http`) URL.
+* I examined three other weather data APIs. While some do allow free access to their data via an API, there are other restrictions. For example, Dark Sky uses `https` but won't allow the API key to work if it's exposed, thus requiring backend non-JavaScript handling of the access key.
+
+Started the FCC [Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) project. Read about the API. Reviewed an old project of mine that used the YouTube API to search and show videos in a popup.
+
+**Thoughts:** I'd like to adapt the code from my YouTube search project to this Wikipedia search project. It's probably not responsive, so I'll need to make adjustments. Plus, I'll get to compare the two APIs. 
+
+**Links to work:** [View on Codepen](http://codepen.io/macloo/pen/MJjYLP)
+
 ## Day 12: 13 Jan 2017
 
 **Today’s progress:** FINALLY. I got a JavaScript promise to work, so that I got my location via the browser with `geolocation.getCurrentPosition` and then passed the latitude and longitude to `google.maps.Geocoder` to get a complete location name. This is the code that works for just that: [weather_bak.js](projects/local-weather-page/scripts/weather_bak.js).
