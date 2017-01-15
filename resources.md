@@ -1,6 +1,7 @@
 # Recommended Resources
 
 ## I used these
+* [Postimage](https://postimage.io/) for linking images on Codepen
 * [CSS Button Generator](http://www.bestcssbuttongenerator.com/)
 * [How to Create an HTML/PHP Contact Form](http://webdesy.com/how-to-create-html-php-contact-form-part-2/)
 * [CSSmatic](http://www.cssmatic.com/box-shadow) for shadows (also does gradients and border radius)
@@ -12,7 +13,7 @@
 
 ## Projects and ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [#JavaScript30](https://javascript30.com/) — this looks great! 
+2. [#JavaScript30](https://javascript30.com/) — this looks great!
 3. [The Odin Project](http://www.theodinproject.com/)
 
 ## Other resources
