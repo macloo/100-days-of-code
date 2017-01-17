@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 14: 16 Jan 2017
+
+**Today’s progress:** Did not have much time (slightly more than one hour), so I cleaned up the interface for the Wikipedia Viewer project, made the search form write an alert popup and clear itself, and read some more about the MediaWiki API.
+
+**Thoughts:** The frustrating thing about APIs is the documentation, not necessarily the API itself.
+
+**Links to work:** Wikipedia Viewer — [view on Codepen](http://codepen.io/macloo/pen/MJjYLP)
+
+## Missed day: 15 Jan 2017
+
 ## Day 13: 14 Jan 2017
 
 **Today’s progress:** I'm quitting the FCC local weather project, and here's why:
@@ -18,7 +28,7 @@
 
 Started the FCC [Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) project. Read about the API. Reviewed an old project of mine that used the YouTube API to search and show videos in a popup.
 
-**Thoughts:** I'd like to adapt the code from my YouTube search project to this Wikipedia search project. It's probably not responsive, so I'll need to make adjustments. Plus, I'll get to compare the two APIs. 
+**Thoughts:** I'd like to adapt the code from my YouTube search project to this Wikipedia search project. It's probably not responsive, so I'll need to make adjustments. Plus, I'll get to compare the two APIs.
 
 **Links to work:** [View on Codepen](http://codepen.io/macloo/pen/MJjYLP)
 
