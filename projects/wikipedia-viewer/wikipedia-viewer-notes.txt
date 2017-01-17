@@ -16,4 +16,9 @@ https://en.wikipedia.org/wiki/Special:ApiSandbox#action=query&titles=Main%20Page
 Example:
 https://codepen.io/freeCodeCamp/full/wGqEga
 
+Tutorial:
+https://www.mediawiki.org/wiki/API:Tutorial
+
+Good tutorial:
+http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/
 
