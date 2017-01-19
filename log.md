@@ -8,6 +8,14 @@
 **Links to work:**
 -->
 
+## Day 15: 18 Jan 2017
+
+**Today’s progress:** Spent time with [this tutorial](http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/) and [this API page](https://en.wikipedia.org/w/api.php) and figured out the search URL. Ajax not completed, but any search will work now. Need to test for punctuation marks and see if they mess it up.
+
+**Links to work:** [My JavaScript so far](projects/wikipedia-viewer/scripts/search-wikipedia.js)
+
+## Missed day: 17 Jan 2017
+
 ## Day 14: 16 Jan 2017
 
 **Today’s progress:** Did not have much time (slightly more than one hour), so I cleaned up the interface for the Wikipedia Viewer project, made the search form write an alert popup and clear itself, and read some more about the MediaWiki API.
