@@ -22,3 +22,22 @@ https://www.mediawiki.org/wiki/API:Tutorial
 Good tutorial:
 http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/
 
+
+https://en.wikipedia.org/w/api.php?action=help&modules=query%2Bsiteinfo
+https://en.wikipedia.org/w/api.php?action=parse&format=json&prop=text&section=0&page=Jimi_Hendrix",
+
+
+opensearch
+https://en.wikipedia.org/w/api.php?action=opensearch&search=food%20and
+https://en.wikipedia.org/w/api.php?action=opensearch&search=bowie
+
+
+&profile=normal
+&limit=20
+
+
+
+
+        
+
+
