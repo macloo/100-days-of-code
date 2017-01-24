@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 16: 23 Jan 2017
+
+**Today’s progress:** Got the Ajax code to work with `action=opensearch` for the Wikipedia API. However, the search results were poor. (Search for `bowie` did not return `David Bowie`.) So, back to the API documentation. Tried `&action=query` with `&generator=search` and got better results (`David Bowie` first in list when I typed just `bowie`.) Had to add `format=json` to the query URL to get rid of an error. Now I have an object with page IDs and titles, and I can log both of those to the console.
+
+**Thoughts:** APIs still annoy me a lot. The documentation is completely obscure. I had to read [this page](https://www.mediawiki.org/wiki/API:Query) for about an hour (including trying many different things that did not work). I had errors with MIME TYPE and User Agents and read a lot of Stack Overflow. I've got a page ID and a title. I can make a URL with the page ID. All I need now is the first paragraph or page summary.
+
+**Links to work:** [Working version so far at Codepen](http://codepen.io/macloo/full/MJjYLP/)
+
+## Missed days: 19–22 Jan 2017
+
 ## Day 15: 18 Jan 2017
 
 **Today’s progress:** Spent time with [this tutorial](http://www.9bitstudios.com/2014/03/getting-data-from-the-wikipedia-api-using-jquery/) and [this API page](https://en.wikipedia.org/w/api.php) and figured out the search URL. Ajax not completed, but any search will work now. Need to test for punctuation marks and see if they mess it up.
