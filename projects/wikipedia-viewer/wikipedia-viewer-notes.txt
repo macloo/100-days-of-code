@@ -36,6 +36,13 @@ https://en.wikipedia.org/w/api.php?action=opensearch&search=bowie
 &limit=20
 
 
+http://stackoverflow.com/questions/35323728/get-wikipedia-page-url-by-pageid
+To get extract text from page:
+&prop=info|extracts
+
+
+
+
 
 
         
