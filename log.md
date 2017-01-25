@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 17: 25 Jan 2017
+
+**Today’s progress:** Still working on the FCC Wikipedia viewer project. Used jQuery to write titles of found Wikipedia pages as H2’s to the HTML page, and the H2’s are links to the correct Wikipedia page, using `?curid=` in the URL. All that’s left is to figure out how to modify the API query so I can get the summary from Wikipedia, then add it as a paragraph below each H2.
+
+**Thoughts:** I’m so happy when I use jQuery and CSS.
+
+**Links to work:** [Working version at Codepen](http://codepen.io/macloo/full/MJjYLP/)
+
+## Missed day: 24 Jan 2017
+
 ## Day 16: 23 Jan 2017
 
 **Today’s progress:** Got the Ajax code to work with `action=opensearch` for the Wikipedia API. However, the search results were poor. (Search for `bowie` did not return `David Bowie`.) So, back to the API documentation. Tried `&action=query` with `&generator=search` and got better results (`David Bowie` first in list when I typed just `bowie`.) Had to add `format=json` to the query URL to get rid of an error. Now I have an object with page IDs and titles, and I can log both of those to the console.
