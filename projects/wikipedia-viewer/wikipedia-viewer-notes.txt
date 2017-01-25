@@ -41,16 +41,11 @@ To get extract text from page:
 &prop=info|extracts
 
 
+--- LOOK AT PROP ---
 https://en.wikipedia.org/w/api.php?format=json&action=query&generator=search&prop=info|extracts&gsrsearch=
 
 How to use the page ID in URL to open page:
 https://en.wikipedia.org/?curid=15183739
 
-
-
-
-
-
-        
 
 
