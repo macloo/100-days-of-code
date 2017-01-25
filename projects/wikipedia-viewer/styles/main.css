@@ -9,13 +9,12 @@ body {
 	font-family: 'PT Sans Narrow', sans-serif;
 	font-size: 100%;
 	color: #000;
-	background: #fff;
+	background: #407189;
     margin: 0;
 	}
 #container {
 	margin: 20px auto;
 	width: 740px;
-	border: 1px solid #999;
 	padding: 20px 40px;
 	background: #f1f7dc;
 	}
@@ -25,8 +24,29 @@ h1, h2 {
 	margin: 0;
 	}
 h2 { font-size: 2.4em; }
-p {
-	font-size: 2em;
+p { font-size: 2em; }
+
+#search_results {
+	width: 90%;
+}
+#search_results h2 {
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-top: 0.5em;
+}
+#byline {
+	font-size: 1.6em;
+	line-height: 1.5em;
+}
+
+/* links */
+a {
+	color: #1484bc;
+	text-decoration: none;
+}
+a:hover {
+	color: #407189;
+	text-decoration: underline;
 }
 
 /* search form elements */
@@ -75,9 +95,6 @@ p {
 	filter: alpha(opacity=90);
 	opacity: 0.9;
 	}
-#byline {
-	font-size: 1.4em;
-	}
 
 /* media queries */
 @media (max-width: 800px) {
@@ -87,10 +104,9 @@ p {
 	#container {
 		margin: 0;
 		width: 100%;
-		border: 0;
 		padding: 20px;
 	}
 	.fieldcontainer {
 		width: 100%;
-		}
+	}
 }
