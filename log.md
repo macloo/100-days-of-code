@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 18: 27 Jan 2017
+
+**Today’s progress:** I struggled with how to get a short extract from the beginning of a Wikipedia page using the API. Finally I found [this answer](http://stackoverflow.com/questions/1565347/get-first-lines-of-wikipedia-article) on Stack Overflow, and that was the ticket. My Wikipedia viewer project is now complete!
+
+**Thoughts:** The Mediawiki API (which is Wikipedia's API) has really crappy documentation.
+
+**Links to work:** [Live Wikipedia Viewer](https://weimergeeks.com/wikipedia-viewer/)
+
+## Missed day: 26 Jan 2017
+
 ## Day 17: 25 Jan 2017
 
 **Today’s progress:** Still working on the FCC Wikipedia viewer project. Used jQuery to write titles of found Wikipedia pages as H2’s to the HTML page, and the H2’s are links to the correct Wikipedia page, using `?curid=` in the URL. All that’s left is to figure out how to modify the API query so I can get the summary from Wikipedia, then add it as a paragraph below each H2.
