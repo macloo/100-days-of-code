@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
-
 * {
 	-webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -23,21 +21,22 @@ h1, h2 {
 	font-weight: normal;
 	margin: 0;
 	}
-h2 { font-size: 2.4em; }
 p { font-size: 2em; }
 
 #search_results {
 	width: 90%;
 }
 #search_results h2 {
-	font-weight: bold;
-	font-size: 1.5em;
+	font-weight: 700;
+	font-size: 1.8em;
 	margin: 0;
-	padding-top: 0.5em;
+	padding-top: 0.8em;
+	padding-bottom: 0.2em;
 }
 p.extract {
 	font-size: 1.4em;
 	color: #333;
+	margin: 0;
 	padding: 0 0 0 1em;
 }
 #byline {
@@ -69,6 +68,7 @@ a:hover {
 .searchfield {
 	display: block;
 	width: 100%;
+	min-height: 1.4em;
 	padding: 11px 7px;
 	padding-right: 43px;
 	background: #fff;
