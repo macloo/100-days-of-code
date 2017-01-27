@@ -32,7 +32,13 @@ p { font-size: 2em; }
 #search_results h2 {
 	font-weight: bold;
 	font-size: 1.5em;
+	margin: 0;
 	padding-top: 0.5em;
+}
+p.extract {
+	font-size: 1.4em;
+	color: #333;
+	padding: 0 0 0 1em;
 }
 #byline {
 	font-size: 1.6em;

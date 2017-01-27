@@ -48,4 +48,33 @@ How to use the page ID in URL to open page:
 https://en.wikipedia.org/?curid=15183739
 
 
+https://www.mediawiki.org/w/api.php?action=help&modules=query%2Bsearch
+srprop:
+snippet
+Adds a parsed snippet of the page.
+
+
+https://www.mediawiki.org/w/api.php?action=query&generator=search&gsrsearch=meaning&prop=info
+
+https://en.wikipedia.org/w/api.php?format=json&action=query&generator=search&gsrsearch=
+
+
+https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=bowie&prop=extracts
+
+?action=query&prop=extracts&exchars=175&titles=Therion [open in sandbox]
+
+
+&prop=extracts&exintro=true
+
+https://en.wikipedia.org/w/api.php?action=query&generator=search&prop=extracts&exintro=true&gsrsearch=bowie
+
+How to get first two sentences, based on title: 
+http://stackoverflow.com/questions/1565347/get-first-lines-of-wikipedia-article
+
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&exsentences=2&titles=Albert%20Einstein
+
+
+https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&exsentences=2&exlimit=10&gsrsearch=bowie
+
+
 

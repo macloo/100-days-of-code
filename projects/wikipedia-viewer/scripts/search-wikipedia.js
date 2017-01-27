@@ -13,7 +13,7 @@ $(document).ready(function() {
         $('#query').val("");
         // api query
         var url =  "https://en.wikipedia.org/w/api.php?format=json&action=query&generator=search&gsrsearch=" +
-        q;
+        q + "&prop=extracts&exintro&explaintext&exsentences=2&exlimit=10";
 
         // set vars for writing into HTML
         var startTitle = "<h2><a href='https://en.wikipedia.org/?curid=";
@@ -23,6 +23,9 @@ $(document).ready(function() {
 
         // clear out the div for new results
         $('#search_results').html("");
+
+        $('#search_results').append("<p>You searched for:<em> " + q +
+            "</em><p>");
 
         $.ajax({
             type: 'POST',
@@ -38,6 +41,8 @@ $(document).ready(function() {
                         var title = list[key].title;
                         var string = startTitle + id + endAtag + title +
                             endTitle;
+                        string += '<p class="extract">';
+                        string += list[key].extract + "</p>";
                         $('#search_results').append(string);
                     }
                 }
