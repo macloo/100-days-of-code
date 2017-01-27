@@ -74,7 +74,7 @@ http://stackoverflow.com/questions/1565347/get-first-lines-of-wikipedia-article
 https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&exsentences=2&titles=Albert%20Einstein
 
 
-https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&exsentences=2&exlimit=10&gsrsearch=bowie
+https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=bowie&prop=extracts&exintro&explaintext&exsentences=2&exlimit=10
 
 
 
