@@ -10,7 +10,9 @@
 
 ## Day 18: 27 Jan 2017
 
-**Today’s progress:** I struggled with how to get a short extract from the beginning of a Wikipedia page using the API. Finally I found [this answer](http://stackoverflow.com/questions/1565347/get-first-lines-of-wikipedia-article) on Stack Overflow, and that was the ticket. My Wikipedia viewer project is now complete!
+**Today’s progress:** I struggled with how to get a short extract from the beginning of a Wikipedia page using the API. Finally I found [this answer](http://stackoverflow.com/questions/1565347/get-first-lines-of-wikipedia-article) on Stack Overflow, and that was the ticket. My Wikipedia viewer project is now complete! 
+
+Also started a new project on my own: [To Do list with localStorage](https://github.com/macloo/to-do-list-localstorage)
 
 **Thoughts:** The Mediawiki API (which is Wikipedia's API) has really crappy documentation.
 
