@@ -8,9 +8,19 @@
 **Links to work:**
 -->
 
+## Day 19: 28 Jan 2017
+
+**Today’s progress:** I got so far on my little localStorage project! Very happy! I'm not writing the contents into the HTML yet, but I definitely can read a string out of localStorage, parse it as JSON objects, stick them into an array, and then push a new object into that array, stringify it, and write it back out to localStorage. This is awesome! (Thank goodness for Stack Overflow!) But I have a problem with how it's writing the array back out — will fix tomorrow. Something wrong in how I'm handling the array in JS.
+
+**Thoughts:** The loop to write all the To Do items into the HTML will be annoying, because I'm using Bootstrap panels for each item.
+
+**Learned today:** How to read/write localStorage! Hooray!
+
+**Links to work:** [To Do list with localStorage](https://github.com/macloo/to-do-list-localstorage)
+
 ## Day 18: 27 Jan 2017
 
-**Today’s progress:** I struggled with how to get a short extract from the beginning of a Wikipedia page using the API. Finally I found [this answer](http://stackoverflow.com/questions/1565347/get-first-lines-of-wikipedia-article) on Stack Overflow, and that was the ticket. My Wikipedia viewer project is now complete! 
+**Today’s progress:** I struggled with how to get a short extract from the beginning of a Wikipedia page using the API. Finally I found [this answer](http://stackoverflow.com/questions/1565347/get-first-lines-of-wikipedia-article) on Stack Overflow, and that was the ticket. My Wikipedia viewer project is now complete!
 
 Also started a new project on my own: [To Do list with localStorage](https://github.com/macloo/to-do-list-localstorage)
 
