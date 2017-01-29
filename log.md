@@ -8,6 +8,14 @@
 **Links to work:**
 -->
 
+## Day 20: 29 Jan 2017
+
+**Today’s progress:** *Awesome.* I solved all the problems (I think) with reading/writing localStorage and now have a nicely functional app, with no tutorial and no instructions to follow — just a lot of Stack Overflow searching.
+
+**Learned today:** When you load a localStorage app from another URL (e.g. github.io instead of my hard drive), it does not see the datastore created by the same app at the other location. This is probably a good security thing.
+
+**Links to work:** [Try it here](https://macloo.github.io/to-do-list-localstorage/) – and [see GitHub repo here](https://github.com/macloo/to-do-list-localstorage)
+
 ## Day 19: 28 Jan 2017
 
 **Today’s progress:** I got so far on my little localStorage project! Very happy! I'm not writing the contents into the HTML yet, but I definitely can read a string out of localStorage, parse it as JSON objects, stick them into an array, and then push a new object into that array, stringify it, and write it back out to localStorage. This is awesome! (Thank goodness for Stack Overflow!) But I have a problem with how it's writing the array back out — will fix tomorrow. Something wrong in how I'm handling the array in JS.
