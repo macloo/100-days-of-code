@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 21: 30 Jan 2017
+
+**Today’s progress:** Fixed a really annoying bug that cropped up in my localStorage To Do list project. I think it had to do with how I was handling the object for each To Do item. It also seems to have appeared after I added code to check if you already have a localStorage key for this app, so I adjusted that code as well. All on GitHub.
+
+**Thoughts:** I still need to add code to: (1) remove a To Do item; (2) change the order of items in the list — sort by priority, sort by due date.
+
+**Learned today:** Sometimes where you declare a variable makes a huge difference. Well, I already knew that, but still I made a mistake with it.
+
+**Links to work:** [Try it here](https://macloo.github.io/to-do-list-localstorage/) – and [see GitHub repo here](https://github.com/macloo/to-do-list-localstorage)
+
 ## Day 20: 29 Jan 2017
 
 **Today’s progress:** *Awesome.* I solved all the problems (I think) with reading/writing localStorage and now have a nicely functional app, with no tutorial and no instructions to follow — just a lot of Stack Overflow searching.
