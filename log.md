@@ -1,12 +1,22 @@
 # 100 Days of Code &mdash; Log
 
 <!--
-## Day 1: 1 Jan 2017
+## Day 2: 1 Feb 2017
 **Today’s progress:**
 **Thoughts:**
 **Learned today:**
 **Links to work:**
 -->
+
+## Day 22: 2 Feb 2017
+
+**Today’s progress:** Added a checkbox to each To Do item with value of the index of the array. Added a "Remove Checked Items" button at top and bottom. Only had 90 minutes to work, so I haven’t coded them to work yet.
+
+**Learned today:** Adding Bootstrap col classes when a thing (in this case, a button) is not in a row by itself just makes trouble.
+
+**Links to work:** [GitHub repo](https://github.com/macloo/to-do-list-localstorage)
+
+## Missed days: 31 Jan and 1 Feb 2017
 
 ## Day 21: 30 Jan 2017
 
