@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 24: 5 Feb 2017
+
+**Today’s progress:** I finished my localStorage project!
+
+**Thoughts:** I'm really pleased with this project, because there was no tutorial, video, how-to or “challenge” for it. I thought of it and pursued it by searching with Google, MDN and Stack Overflow. That said, a To Do list app is really [not an app I ever wanted to build before](https://medium.freecodecamp.com/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d) (haha), but it seemed really well suited to learning about localStorage.
+
+**Learned today:** Sorting an array of objects based on the values of a particular property is waaay easier than I ever thought it would be. That was a pleasant surprise!
+
+**Links to work:** [Live working app](https://macloo.github.io/to-do-list-localstorage/) and [GitHub repo](https://github.com/macloo/to-do-list-localstorage)
+
 ## Day 23: 4 Feb 2017
 
 **Today’s progress:** Major victory! Each or any item on my To Do list can be checked and removed. I can check a bunch and then remove them all with one button click.
