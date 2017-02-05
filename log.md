@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 23: 4 Feb 2017
+
+**Today’s progress:** Major victory! Each or any item on my To Do list can be checked and removed. I can check a bunch and then remove them all with one button click.
+
+**Learned today:** The cache is very persistent at/from GitHub.io (???) — anyway it seemed that way. I had to open the .js and .css files in the browser and reload there to get them to work.
+
+**Links to work:** [Live working app](https://macloo.github.io/to-do-list-localstorage/) with link to GitHub repo
+
+## Missed day: 3 Feb 2017
+
 ## Day 22: 2 Feb 2017
 
 **Today’s progress:** Added a checkbox to each To Do item with value of the index of the array. Added a "Remove Checked Items" button at top and bottom. Only had 90 minutes to work, so I haven’t coded them to work yet.
