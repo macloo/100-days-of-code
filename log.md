@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 25: 7 Feb 2017
+
+**Today’s progress:** Looked at several project “challenges” I might want to do and decided I did not want to start any of them, so I went to FCC and started the Intermediate Algorithm Scripting section. I only completed one ([Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)), and I think my solution is probably inelegant, because I think there was probably a way to do it without the for-loop I resorted to. Then I worked for a while on the second problem there. Did not complete it. Time spent: 90 minutes.
+
+**Learned today:** JavaScript `Math.min()`, `Math.max()`, `myArray.reduce()`, `myArray.filter()`, `myArray.concat()`, plus revisited `myArray.splice()` and `myArray.indexOf()`.
+
+**Links to work:** None.
+
+## Missed day: 6 Feb 2017
+
 ## Day 24: 5 Feb 2017
 
 **Today’s progress:** I finished my localStorage project!
