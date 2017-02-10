@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 26: 10 Feb 2017
+
+**Today’s progress:** Completed two more problems in FCC's Intermediate Algorithm Scripting section: Diff Two Arrays and Roman Numeral Converter.
+
+**Learned today:** JavaScript `myArray.includes()`; for the Roman numerals I just built strings using if-statements.
+
+**Links to work:** [Diff Two Arrays](js-problems/diffTwoArrays.js) and [Roman Numeral Converter](js-problems/romanNumerals.js)
+
+## Missed days: 8 and 9 Feb 2017
+
 ## Day 25: 7 Feb 2017
 
 **Today’s progress:** Looked at several project “challenges” I might want to do and decided I did not want to start any of them, so I went to FCC and started the Intermediate Algorithm Scripting section. I only completed one ([Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)), and I think my solution is probably inelegant, because I think there was probably a way to do it without the for-loop I resorted to. Then I worked for a while on the second problem there. Did not complete it. Time spent: 90 minutes.
