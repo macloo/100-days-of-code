@@ -16,11 +16,11 @@
 
 **Learned today:** Nothing new, really, but good review of `.split()`, `.join()`, `.indexOf()`.
 
-**Links to work:** [Wherefore art thou](js-problems/findValueInObject.js), [Search and Replace](js-problems/searchAndReplace.js), [Pig Latin](js-problems/pigLation.js)
+**Links to work:** [Wherefore art thou](js-problems/findValueInObject.js), [Search and Replace](js-problems/searchAndReplace.js), [Pig Latin](js-problems/pigLatin.js)
 
 ## Missed days: 11–15 Feb 2017
 
-There was a lot of code in there, but none of it was personal projects or drills — all code for work. Also a lot of grading. 
+There was a lot of code in there, but none of it was personal projects or drills — all code for work. Also a lot of grading.
 
 ## Day 26: 10 Feb 2017
 
