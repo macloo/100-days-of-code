@@ -26,9 +26,9 @@ function translatePigLatin(str) {
         rest = str.substring(i);
       }
     }
+    // put it back together in pig Latin style
     str = rest + first + "ay";
   }
-  // put it back together in pig Lation style
   return str;
 }
 
