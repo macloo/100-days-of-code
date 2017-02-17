@@ -8,6 +8,20 @@
 **Links to work:**
 -->
 
+## Day 27: 16 Feb 2017
+
+**Today’s progress:** Completed three more problems in FCC's Intermediate Algorithm Scripting section.
+
+**Thoughts:** “Wherefore art thou” was really hard for me. The next two seemed much simpler. I have to pratice with `.filter()`.
+
+**Learned today:** Nothing new, really, but good review of `.split()`, `.join()`, `.indexOf()`.
+
+**Links to work:** [Wherefore art thou](js-problems/findValueInObject.js), [Search and Replace](js-problems/searchAndReplace.js), [Pig Latin](js-problems/pigLation.js)
+
+## Missed days: 11–15 Feb 2017
+
+There was a lot of code in there, but none of it was personal projects or drills — all code for work. Also a lot of grading. 
+
 ## Day 26: 10 Feb 2017
 
 **Today’s progress:** Completed two more problems in FCC's Intermediate Algorithm Scripting section: Diff Two Arrays and Roman Numeral Converter.
