@@ -14,7 +14,7 @@
 
 **Learned today:** Used [DataTables](https://datatables.net/) for the first time! Sweet! This library integrates very nicely with Bootstrap.
 
-**Links to work:** [Dragonvale Habitat Planner](https://github.com/macloo/dragonvale-habitats)
+**Links to work:** Dragonvale Habitat Planner [GitHub repo](https://github.com/macloo/dragonvale-habitats) and [live page](https://macloo.github.io/dragonvale-habitats/) 
 
 ## Day 27: 16 Feb 2017
 
