@@ -8,11 +8,19 @@
 **Links to work:**
 -->
 
+## Day 28: 17 Feb 2017
+
+**Today’s progress:** Started a new personal project that will have me using JS objects, sorting, and using forms.
+
+**Learned today:** Used [DataTables](https://datatables.net/) for the first time! Sweet! This library integrates very nicely with Bootstrap.
+
+**Links to work:** [Dragonvale Habitat Planner](https://github.com/macloo/dragonvale-habitats)
+
 ## Day 27: 16 Feb 2017
 
 **Today’s progress:** Completed three more problems in FCC's Intermediate Algorithm Scripting section.
 
-**Thoughts:** “Wherefore art thou” was really hard for me. The next two seemed much simpler. I have to pratice with `.filter()`.
+**Thoughts:** “Wherefore art thou” was really hard for me. The next two seemed much simpler. I have to practice with `.filter()`.
 
 **Learned today:** Nothing new, really, but good review of `.split()`, `.join()`, `.indexOf()`.
 
