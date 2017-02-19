@@ -8,13 +8,23 @@
 **Links to work:**
 -->
 
+## Day 29: 18 Feb 2017
+
+**Today’s progress:** More work on personal project: Dragonvale Habitat Planner. UI to select one habitat and get its properties works. Separated habitat table and dragon entry area; added jQuery to handle those. Get selected habitat from table row click (jQuery). Write data about selected habitat into dragon entry area.
+
+**Thoughts:** How does anyone work without jQuery? So much is so easy.
+
+**Learned today:** Nothing much new, but getting more and more comfortable with JSON objects as a data store.
+
+**Links to work:** Dragonvale Habitat Planner [GitHub repo](https://github.com/macloo/dragonvale-habitats) and [live page](https://macloo.github.io/dragonvale-habitats/)
+
 ## Day 28: 17 Feb 2017
 
 **Today’s progress:** Started a new personal project that will have me using JS objects, sorting, and using forms.
 
 **Learned today:** Used [DataTables](https://datatables.net/) for the first time! Sweet! This library integrates very nicely with Bootstrap.
 
-**Links to work:** Dragonvale Habitat Planner [GitHub repo](https://github.com/macloo/dragonvale-habitats) and [live page](https://macloo.github.io/dragonvale-habitats/) 
+**Links to work:** Dragonvale Habitat Planner [GitHub repo](https://github.com/macloo/dragonvale-habitats) and [live page](https://macloo.github.io/dragonvale-habitats/)
 
 ## Day 27: 16 Feb 2017
 
