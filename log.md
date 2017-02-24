@@ -16,6 +16,8 @@
 
 **Learned today:** I already knew how to traverse the DOM with jQuery — in theory — but today I really had to do it, seriously. The reason is that I had to write functions that would run on any one of six select elements when you changed one of them, and then the corresponding select to the left must be read, and then the input element to the right must be filled in with the correct value. There was no way to do this by assigning IDs or classes; I really had to use the DOM, navigating up to a parent, over to a sibling, and down. I was very excited when I got this working.
 
+![Screen capture: Fieldsets](images/fieldsets.png)
+
 **Links to work:** Dragonvale Habitat Planner [GitHub repo](https://github.com/macloo/dragonvale-habitats) and [live page](https://macloo.github.io/dragonvale-habitats/)
 
 ## Missed days: 19–20 Feb 2017
