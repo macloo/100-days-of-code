@@ -8,6 +8,18 @@
 **Links to work:**
 -->
 
+## Day 30: 21–23 Feb 2017
+
+**Today’s progress:** Just calling this one day because I don't know exactly when I did which things. Made lots of progress on my current project! It's almost done.
+
+**Thoughts:** You never know how much new stuff you will have to learn when you start a new project from scratch.
+
+**Learned today:** I already knew how to traverse the DOM with jQuery — in theory — but today I really had to do it, seriously. The reason is that I had to write functions that would run on any one of six select elements when you changed one of them, and then the corresponding select to the left must be read, and then the input element to the right must be filled in with the correct value. There was no way to do this by assigning IDs or classes; I really had to use the DOM, navigating up to a parent, over to a sibling, and down. I was very excited when I got this working.
+
+**Links to work:** Dragonvale Habitat Planner [GitHub repo](https://github.com/macloo/dragonvale-habitats) and [live page](https://macloo.github.io/dragonvale-habitats/)
+
+## Missed days: 19–20 Feb 2017
+
 ## Day 29: 18 Feb 2017
 
 **Today’s progress:** More work on personal project: Dragonvale Habitat Planner. UI to select one habitat and get its properties works. Separated habitat table and dragon entry area; added jQuery to handle those. Get selected habitat from table row click (jQuery). Write data about selected habitat into dragon entry area.
