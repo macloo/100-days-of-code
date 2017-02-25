@@ -8,6 +8,16 @@
 **Links to work:**
 -->
 
+## Day 31: 24 Feb 2017
+
+**Today’s progress:** Finished my personal project, and I'm pretty happy about it.
+
+**Thoughts:** This was such a cool project because I learned how to do all kinds of things I had never needed to do before. I had to traverse the DOM a lot to perform tasks, and I also extracted data from three different arrays of objects in a JSON file.
+
+**Learned today:** How to use `.each()` (jQuery) to loop over all instances of an HTML element. This made it easy to hide/show identical fieldsets when I needed a particular number of them to be visible.
+
+**Links to work:** Dragonvale Habitat Planner [GitHub repo](https://github.com/macloo/dragonvale-habitats) and [live page](https://macloo.github.io/dragonvale-habitats/)
+
 ## Day 30: 21–23 Feb 2017
 
 **Today’s progress:** Just calling this one day because I don't know exactly when I did which things. Made lots of progress on my current project! It's almost done.
