@@ -1,12 +1,22 @@
 # 100 Days of Code &mdash; Log
 
 <!--
-## Day 2: 1 Feb 2017
+## Day 3: 1 Feb 2017
 **Today’s progress:**
 **Thoughts:**
 **Learned today:**
 **Links to work:**
 -->
+
+## Day 32: 27 Feb 2017
+
+**Today’s progress:** Missed two days (work). It's the time of year when I have to focus on Python for a class I teach, so I did some exercises at [DataCamp](https://www.datacamp.com/), which I just joined. Today I completed two chapters, “Python Lists” and “Functions and Packages.” These were mostly review. 
+
+**Thoughts:** DataCamp's interactive lessons are much nicer than Codecademy's!
+
+**Learned today:** `areas_copy = list(areas)` creates an independent duplicate of the list `areas` instead of just a pointer to the same list in memory. List methods: Review `index()`, `count()`, `append()`, `remove()`, `reverse()`.
+
+**Links to work:** None
 
 ## Day 31: 24 Feb 2017
 
