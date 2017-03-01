@@ -8,9 +8,17 @@
 **Links to work:**
 -->
 
+## Day 33: 28 Feb 2017
+
+**Today’s progress:** Spent an hour learning to use NumPy (Python package) in a DataCamp](https://www.datacamp.com/) course.
+
+**Learned today:** Wow, NumPy lets you do math on Python lists in a ridiculously easy and compact way! You can do math across two arrays — for example, one array holds people's heights and another one holds people's weights, and this calculates BMI for all the people, creating a third NumPy array: `bmi = np_weight_kg / (np_height_m**2)` 
+
+**Links to work:** None
+
 ## Day 32: 27 Feb 2017
 
-**Today’s progress:** Missed two days (work). It's the time of year when I have to focus on Python for a class I teach, so I did some exercises at [DataCamp](https://www.datacamp.com/), which I just joined. Today I completed two chapters, “Python Lists” and “Functions and Packages.” These were mostly review. 
+**Today’s progress:** Missed two days (work). It's the time of year when I have to focus on Python for a class I teach, so I did some exercises at [DataCamp](https://www.datacamp.com/), which I just joined. Today I completed two chapters, “Python Lists” and “Functions and Packages.” These were mostly review.
 
 **Thoughts:** DataCamp's interactive lessons are much nicer than Codecademy's!
 
