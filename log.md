@@ -8,11 +8,25 @@
 **Links to work:**
 -->
 
+## Day 34: 6 March 2017
+
+**Today’s progress:** Used a Twitter scraper from the conference: [link to code](https://github.com/lamthuyvo/social-media-data-scripts). Successfully scraped all of Congresssman Ted Yoho's tweets and explored them. Wrote a new Python script of my own to scrape the hashtags out of the Twitter data.
+
+**Thoughts:** I'm getting better with Python dictionaries.
+
+**Links to work:** [Scraping Twitter: Rep. Ted Yoho](http://bit.ly/yoho-tweets): Google doc with my results. Code: [get_hashtags.py](https://gist.github.com/macloo/39e3716bac97d0373daa3484f767c9c7)
+
+## Code conference 1–5 March 2017
+
+Lots of code! But I'm not counting those days for my 100 days.
+
+My notes: [NICAR 2017 – all notes, all days](http://bit.ly/mm-nicar2017)
+
 ## Day 33: 28 Feb 2017
 
 **Today’s progress:** Spent an hour learning to use NumPy (Python package) in a DataCamp](https://www.datacamp.com/) course.
 
-**Learned today:** Wow, NumPy lets you do math on Python lists in a ridiculously easy and compact way! You can do math across two arrays — for example, one array holds people's heights and another one holds people's weights, and this calculates BMI for all the people, creating a third NumPy array: `bmi = np_weight_kg / (np_height_m**2)` 
+**Learned today:** Wow, NumPy lets you do math on Python lists in a ridiculously easy and compact way! You can do math across two arrays — for example, one array holds people's heights and another one holds people's weights, and this calculates BMI for all the people, creating a third NumPy array: `bmi = np_weight_kg / (np_height_m**2)`
 
 **Links to work:** None
 
