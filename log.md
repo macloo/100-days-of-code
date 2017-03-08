@@ -1,12 +1,20 @@
 # 100 Days of Code &mdash; Log
 
 <!--
-## Day 3: 1 Feb 2017
+## Day 3: 1 March 2017
 **Today’s progress:**
 **Thoughts:**
 **Learned today:**
 **Links to work:**
 -->
+
+## Day 35: 7 March 2017
+
+**Today’s progress:** More Twitter scraping with Python. Write the following to a CSV file for all members of a given Twitter list: name, username, bio, followers, following, when joined, location.
+
+**Thoughts:** Combining and reworking code from me (last year) and two other people, separate repos: Very satisfying! 
+
+**Links to work:** [twitter_bio_compiler_for_list.py](https://gist.github.com/macloo/5c69cdf5294fa97eb41d6ad950233cee)
 
 ## Day 34: 6 March 2017
 
