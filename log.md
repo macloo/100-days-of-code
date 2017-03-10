@@ -8,11 +8,17 @@
 **Links to work:**
 -->
 
+## Day 36: 9 March 2017
+
+**Today’s progress:** Working on Flask because of a course I'm teaching. Reviewed a bunch of code from a year ago. Some of that was a [web scraping repo](https://github.com/macloo/web-scraper-steps) — not Flask, but Python. Getting ready to lead students through a scraping project and then teach them Flask. Although this is not a “personal” project, I’m counting it anyway!
+
+**Thoughts:** I really need to build some bigger things with Flask. It's so cool. Today I reviewed routes, decorators and templates.
+
 ## Day 35: 7 March 2017
 
 **Today’s progress:** More Twitter scraping with Python. Write the following to a CSV file for all members of a given Twitter list: name, username, bio, followers, following, when joined, location.
 
-**Thoughts:** Combining and reworking code from me (last year) and two other people, separate repos: Very satisfying! 
+**Thoughts:** Combining and reworking code from me (last year) and two other people, separate repos: Very satisfying!
 
 **Links to work:** [twitter_bio_compiler_for_list.py](https://gist.github.com/macloo/5c69cdf5294fa97eb41d6ad950233cee)
 
