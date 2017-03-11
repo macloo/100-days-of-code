@@ -8,6 +8,14 @@
 **Links to work:**
 -->
 
+## Day 37: 10 March 2017
+
+**Today’s progress:** Relearned Flask, which I have not used for a year.
+
+**Thoughts:** Next, I need to review the dynamic stuff: databases, forms. 
+
+**Links to work:** [Basic Flask App](https://github.com/macloo/basic-flask-app) – GitHub repo
+
 ## Day 36: 9 March 2017
 
 **Today’s progress:** Working on Flask because of a course I'm teaching. Reviewed a bunch of code from a year ago. Some of that was a [web scraping repo](https://github.com/macloo/web-scraper-steps) — not Flask, but Python. Getting ready to lead students through a scraping project and then teach them Flask. Although this is not a “personal” project, I’m counting it anyway!
