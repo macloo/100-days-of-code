@@ -8,11 +8,21 @@
 **Links to work:**
 -->
 
+## Day 38: 11 March 2017
+
+**Today’s progress:** Today was hard! Since I successfully deployed a little Flask app to a live server yesterday, I thought I would do it again with a slightly more challenging Flask app I wrote a year ago. This app had more sophisticated routes, including a directory-like path, and that caused a big problem when it got to Apache. I wrote about it in the repo's README.
+
+**Thoughts:** Making stuff live is always unpredictable.
+
+**Learned today:** Jinja2 has a lot of filters, and that is good.
+
+**Links to work:** [Dynamic Flask app](https://github.com/macloo/flask_project1) with a Python dataset
+
 ## Day 37: 10 March 2017
 
 **Today’s progress:** Relearned Flask, which I have not used for a year.
 
-**Thoughts:** Next, I need to review the dynamic stuff: databases, forms. 
+**Thoughts:** Next, I need to review the dynamic stuff: databases, forms.
 
 **Links to work:** [Basic Flask App](https://github.com/macloo/basic-flask-app) – GitHub repo
 
